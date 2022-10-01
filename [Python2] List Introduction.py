@@ -168,10 +168,66 @@ a_list.extend([6,7,8,True])
 print(f'a_list: {a_list}')
 
 
-# In[157]:
+# In[ ]:
+
+
+# extend()內可以直接加入一個list的名稱。
+
+
+# In[3]:
+
+
+everything=['a','b','c']
+list_of_lists=[[1,2,3],[4,5,6],[7,8,9]]
+
+
+# In[5]:
+
+
+everything.extend(list_of_lists)
+everything
+
+
+# In[ ]:
+
+
+# extend(): 如果list內還有list，想要拆開裡面的值，可以使用for迴圈。
+
+
+# In[6]:
+
+
+everything=['a','b','c']
+list_of_lists=[[1,2,3],[4,5,6],[7,8,9]]
+
+
+# In[8]:
+
+
+for chunk in list_of_lists:
+    everything.extend(chunk)
+    print(f'chunk: {chunk}, everything: {everything}')
+
+
+# In[ ]:
 
 
 # 由於加號需要開一個新的list，在效率上，使用extend()會更好。
+
+
+# In[ ]:
+
+
+everything=['a','b','c']
+list_of_lists=[[1,2,3],[4,5,6],[7,8,9]]
+
+
+# In[9]:
+
+
+for chunk in list_of_lists:
+    everything=everything+chunk
+    print(f'chunk: {chunk}, everything: {everything}')
 
 
 # In[158]:
