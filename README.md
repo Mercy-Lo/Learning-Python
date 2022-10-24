@@ -52,25 +52,7 @@ by Wes McKinney, published by O'Reilly Media
 - [[Python15] Data Loading, Storage, and File Formats PartII.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython15%5D%20Data%20Loading%2C%20Storage%2C%20and%20File%20Formats%20PartII.ipynb)
 
 # Chapter 7
-- np.nan: dropna/ fillna/ isnull/ notnull
-- dropna / how='all'/ thresh=2
-- fillna / method='ffill'/ limit=2/ data.mean()
-- duplicated/ drop_duplicates / keep='last'
-- str.lower()
-- lowercased.map(meat_to_animal)
-- repalce(x,y) / rename
-- pd.cut(ages, bins, lables=group_names) /cats.codes/cats.categories / precision=2
-- pd.value_counts(cats) / pd.qcut(data,4)
-- np.random.permutation
-- df.take(sampler)
-- pd.get_dummies / dummies.columns
-- get_indexer 
-- split v.s. strip
-- val.index() v.s. val.find() v.s. val.count() v.s. val.replace()
-- regular expression
-- regex=re.compile('\s+')
-- regex.findall()/ regex.search()/ regex.match()/ regex.sub()
-- str.contains()/ str.match()/ str.get()/ srt[0]
+- [[Python16] Data Cleaning and Preparation.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython16%5D%20Data%20Cleaning%20and%20Preparation.ipynb)
 
 # Chapter 8
 - MultiIndex
