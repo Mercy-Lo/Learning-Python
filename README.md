@@ -40,31 +40,12 @@ by Wes McKinney, published by O'Reilly Media
 - [[Python9] File, system and unicode.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython9%5D%20File%2C%20system%20and%20unicode.ipynb)
 
 # Chapter 4 
-- import numpy as np
-- shape / dtype /nidm / astype
-- np.array/np.zeros/np.arange/ np.in1d
-- array slices 
-- data[boolean] / arr[[[],[]] 
-- np.arrange(15).reshape((3,5)) / np.random.randn(6,3)/ np.dot/ arr.T
-- arr.transpose / arr.swapaxes / arr.sort 
-- numpy.where=x if condition else y
-- np.save v.s. np.load
+- [[Python10] NumPy Part 1 .ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython10%5D%20NumPy%20Part%201%20.ipynb)
+- [[Python11] Numpy Part 2.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython11%5D%20Numpy%20Part%202.ipynb)
 
 # Chapter 5
-- import pandas as pd
-- Series / DataFrame
-- isnull v.s. notnull
-- Pandas Index v.s. Python Set 
-- reindex / method='ffill'
-- drop/ inplace=True
-- loc v.s. iloc
-- frame.apply(f)/ frame.applymap(format)
-- sort_index()/ sort_values() 
-- rank/ method: average/ min/ max/ first/ dense
-- is_unique
-- mean/ skipna=False
-- idxmax/cumsum/describe
-- isin/ apply/ fillna(0)
+- [[Python12] Pandas Part1.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython12%5D%20Pandas%20Part1.ipynb)
+- [[Python13] Pandas Part2.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython13%5D%20Pandas%20Part2.ipynb)
 
 # Chapter 6
 - !cat desktop/practice_python/example01
