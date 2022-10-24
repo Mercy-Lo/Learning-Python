@@ -26,6 +26,7 @@ by Wes McKinney, published by O'Reilly Media
 - mutable v.s. immutable 
 - scalar: None, str, bytes, float, bool, int
 - 控制流程: if, elif, else/ for 迴圈 / continue v.s. break/ while 迴圈/ pass
+- [[Python0]_Basic_Concept.ipynb ](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython0%5D_Basic_Concept.ipynb)
 
 # Chapter 3
 - [[Python1] Tuple Introduction.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/4a7fd7c9c062eef564c1aca692b72c46ac968dff/%5BPython1%5D%20Tuple%20Introduction.ipynb)
