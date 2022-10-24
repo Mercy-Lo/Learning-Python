@@ -55,19 +55,7 @@ by Wes McKinney, published by O'Reilly Media
 - [[Python16] Data Cleaning and Preparation.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython16%5D%20Data%20Cleaning%20and%20Preparation.ipynb)
 
 # Chapter 8
-- MultiIndex
-- unstack() v.s. stack()
-- index.names() v.s. columns.names()
-- pd.MulitiIndex.from.arrays
-- swaplevel() / sort_index() 
-- set_index() / reset_index()
-- pd.merge v.s. pd.concat
-- np.concatenate
-- b.combime_first(a)
-- pivoted=ldata.pivot(index, columns, value)
-- reshaped=melted.pivot('index', 'columns', value)
-- reset_index()
-- pd.melt(df, value_vars=['key','A','B']
+- [[Python17] Join, Combine and Reshape.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython17%5D%20Join%2C%20Combine%20and%20Reshape.ipynb)
 
 # Chapter 9
 - %matplotlib notebook
