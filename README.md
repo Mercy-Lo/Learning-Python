@@ -28,21 +28,15 @@ by Wes McKinney, published by O'Reilly Media
 - 控制流程: if, elif, else/ for 迴圈 / continue v.s. break/ while 迴圈/ pass
 
 # Chapter 3
-- Tuple / List / Dict / Set 
-- insert v.s. pop /append v.s. extend 
-- sort v.s. sorted 
-- slices[start, end, step]
-- enumerate v.s. zip
-- list comprehension : x for x in tup for tup in some_tuples 
-- def return 
-- equiv_anon=lambda x: x*2
-- currying: add_five=partial(add_numbers, 5)
-- iterator protocal: generator 
-- generator expression: gen=(x**2 for x in range(100)
-- itertools 
-- try except / else/ finally 
-- f=open(path)/ f.close
-- data.decode('utf8')
+- [[Python1] Tuple Introduction.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/4a7fd7c9c062eef564c1aca692b72c46ac968dff/%5BPython1%5D%20Tuple%20Introduction.ipynb)
+- [[Python2] List Introduction.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/4a7fd7c9c062eef564c1aca692b72c4[6ac968dff/%5BPython2%5D%20List%20Introduction.ipynb)
+- [[Python3] Slices Introduction.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython3%5D%20Slices%20Introduction.ipynb)
+- [[Python4] enumerate( ), sorted( ), zip( ), reverse( ).ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython4%5D%20enumerate(%20)%2C%20sorted(%20)%2C%20zip(%20)%2C%20reverse(%20).ipynb)
+- [[Python5] Dict Introduction.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython5%5D%20Dict%20Introduction.ipynb)
+- [[Python6] Set Introduction.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython6%5D%20Set%20Introduction.ipynb)
+- [[Python7] List, Set, Dict Comprehension.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython7%5D%20List%2C%20Set%2C%20Dict%20Comprehension.ipynb)
+- [[Python8] Function Introduction.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython8%5D%20Function%20Introduction.ipynb)
+- [[Python9] File, system and unicode.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython9%5D%20File%2C%20system%20and%20unicode.ipynb)
 
 # Chapter 4 
 - import numpy as np
