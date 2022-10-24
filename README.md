@@ -48,16 +48,8 @@ by Wes McKinney, published by O'Reilly Media
 - [[Python13] Pandas Part2.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython13%5D%20Pandas%20Part2.ipynb)
 
 # Chapter 6
-- !cat desktop/practice_python/example01
-- pd.read_csv('desktop/practice/python/example01')
-- pd.options.display.max_rows
-- json.loads v.s. json.dumps 
-- pd.read_html
-- xml: root/ root.get('href')/ root.text
-- to_pickle/ pd.HDFStore/ frame.to_hdf
-- pd.ExcelFile / pd.read_excel/ frame.to_excel
-- web API: requests/ url/ requests.get(url)
-- pd.read_sql
+- [[Python14] Data Loading, Storage & File Formats Part I.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython14%5D%20Data%20Loading%2C%20Storage%20%26%20File%20Formats%20Part%20I.ipynb)
+- [[Python15] Data Loading, Storage, and File Formats PartII.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython15%5D%20Data%20Loading%2C%20Storage%2C%20and%20File%20Formats%20PartII.ipynb)
 
 # Chapter 7
 - np.nan: dropna/ fillna/ isnull/ notnull
