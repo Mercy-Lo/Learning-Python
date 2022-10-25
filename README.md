@@ -58,13 +58,7 @@ by Wes McKinney, published by O'Reilly Media
 - [[Python17] Join, Combine and Reshape.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython17%5D%20Join%2C%20Combine%20and%20Reshape.ipynb)
 
 # Chapter 9
-- %matplotlib notebook
-- import matplotlib.pyplot as plt
-- plt.plot(data)
-- fig=plt.figure()
-- ax1=fig.add_subplot(x,y,n)
-
--- to be updated...--
+- [[Python18] Plotting and Visualization Part I.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython18%5D%20Plotting%20and%20Visualization%20Part%20I.ipynb)
 
 <!---
 Mercy-Lo/Mercy-Lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
