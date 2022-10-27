@@ -63,6 +63,7 @@ by Wes McKinney, published by O'Reilly Media
 
 # Chapter10
 - [[Python20] Data Aggregation and Group Operations Part I.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython20%5D%20Data%20Aggregation%20and%20Group%20Operations%20Part%20I.ipynb)
+- [[Python21] Data Aggregation and Group Operations PartII.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython21%5D%20Data%20Aggregation%20and%20Group%20Operations%20PartII.ipynb)
 
 <!---
 Mercy-Lo/Mercy-Lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
