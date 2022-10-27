@@ -61,6 +61,9 @@ by Wes McKinney, published by O'Reilly Media
 - [[Python18] Plotting and Visualization Part I.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython18%5D%20Plotting%20and%20Visualization%20Part%20I.ipynb)
 - [[Python19] Plotting and Visualization Part II.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython19%5D%20Plotting%20and%20Visualization%20Part%20II.ipynb)
 
+# Chapter10
+- [[Python20] Data Aggregation and Group Operations Part I.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython20%5D%20Data%20Aggregation%20and%20Group%20Operations%20Part%20I.ipynb)
+
 <!---
 Mercy-Lo/Mercy-Lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
