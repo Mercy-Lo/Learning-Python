@@ -67,6 +67,7 @@ by Wes McKinney, published by O'Reilly Media
 - [[Python22] Data Aggregation and Group Operations Part III.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython22%5D%20Data%20Aggregation%20and%20Group%20Operations%20Part%20III.ipynb)
 
 # Chapter11
+- [[Python23] Time Series Part I.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython23%5D%20Time%20Series%20Part%20I.ipynb)
 
 <!---
 Mercy-Lo/Mercy-Lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
