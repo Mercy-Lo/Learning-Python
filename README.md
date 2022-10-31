@@ -68,6 +68,7 @@ by Wes McKinney, published by O'Reilly Media
 
 # Chapter11
 - [[Python23] Time Series Part I.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython23%5D%20Time%20Series%20Part%20I.ipynb)
+- [[Python24] Time Series PartII.ipynb](https://github.com/Mercy-Lo/Learning-Python/blob/main/%5BPython24%5D%20Time%20Series%20PartII.ipynb)
 
 <!---
 Mercy-Lo/Mercy-Lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
